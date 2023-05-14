@@ -1,0 +1,8 @@
+#for linux systems, you can also create a script
+#start your script with SHEBANG (#!) and the path of where python #is install in your machine
+#for example:
+#!/bin/bash/python3
+print("hello world")
+
+#chmod +x hello.py
+#./hello.py
