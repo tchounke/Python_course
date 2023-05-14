@@ -5,4 +5,4 @@
 a=4
 b=5
 result=a+b
-print(f"The addition of {a} and {b} is: {result}")
+print(f"The addition of both {a} and {b} is: {result}")
